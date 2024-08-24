@@ -4,7 +4,7 @@ Divic Test. This is a Shipment based React native application built using Typesc
 
 HOW TO INSTALL
 
-on your VS code terminal run the command git clone https://github.com/Ehizojie7/Ehizojie-easy-bill-assessment.git
+on your VS code terminal run the command git clone https://github.com/Ehizojie7/Divic-app.git
 next run the command cd Divic.
 next run the command npm install to install the required node modules dependencies.
 next run the npx expo start to run the application.
